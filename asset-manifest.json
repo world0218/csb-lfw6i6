@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://world0218.github.io/csb-lfw6i6/static/css/main.f5d83acd.chunk.css",
+    "main.js": "https://world0218.github.io/csb-lfw6i6/static/js/main.949b43a8.chunk.js",
+    "main.js.map": "https://world0218.github.io/csb-lfw6i6/static/js/main.949b43a8.chunk.js.map",
+    "runtime-main.js": "https://world0218.github.io/csb-lfw6i6/static/js/runtime-main.b947c4ae.js",
+    "runtime-main.js.map": "https://world0218.github.io/csb-lfw6i6/static/js/runtime-main.b947c4ae.js.map",
+    "static/js/2.2324fcf4.chunk.js": "https://world0218.github.io/csb-lfw6i6/static/js/2.2324fcf4.chunk.js",
+    "static/js/2.2324fcf4.chunk.js.map": "https://world0218.github.io/csb-lfw6i6/static/js/2.2324fcf4.chunk.js.map",
+    "static/js/3.91f6af23.chunk.js": "https://world0218.github.io/csb-lfw6i6/static/js/3.91f6af23.chunk.js",
+    "static/js/3.91f6af23.chunk.js.map": "https://world0218.github.io/csb-lfw6i6/static/js/3.91f6af23.chunk.js.map",
+    "index.html": "https://world0218.github.io/csb-lfw6i6/index.html",
+    "static/css/main.f5d83acd.chunk.css.map": "https://world0218.github.io/csb-lfw6i6/static/css/main.f5d83acd.chunk.css.map",
+    "static/js/2.2324fcf4.chunk.js.LICENSE.txt": "https://world0218.github.io/csb-lfw6i6/static/js/2.2324fcf4.chunk.js.LICENSE.txt",
+    "static/media/icon-laptop.280f1892.svg": "https://world0218.github.io/csb-lfw6i6/static/media/icon-laptop.280f1892.svg",
+    "static/media/icon-twitter.1f8af10d.svg": "https://world0218.github.io/csb-lfw6i6/static/media/icon-twitter.1f8af10d.svg",
+    "static/media/icon-youtube.d6990689.svg": "https://world0218.github.io/csb-lfw6i6/static/media/icon-youtube.d6990689.svg",
+    "static/media/logo.e258c777.svg": "https://world0218.github.io/csb-lfw6i6/static/media/logo.e258c777.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b947c4ae.js",
+    "static/js/2.2324fcf4.chunk.js",
+    "static/css/main.f5d83acd.chunk.css",
+    "static/js/main.949b43a8.chunk.js"
+  ]
+}
